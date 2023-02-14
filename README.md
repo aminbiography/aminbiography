@@ -1,8 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://www.facebook.com/photo/?fbid=2532370866905379&set=a.131863980289425">
-
 <h1 align="center">Hi 👋, I'm Mohammad Aminul Islam</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coding&tbm=isch&tbs=rimg:CRXb_fn5j7H0YZQwdMNycleHsgIIEAA6BAgAEAA&rlz=1C1GCEU_en-GBBD941BD941&hl=en&sa=X&ved=0CCYQuIIBahcKEwj4sPKl8pX9AhUAAAAAHQAAAAAQGQ&biw=1600&bih=789&dpr=1#imgrc=T7skdZkC7ycc6M&imgdii=Jrt2j8I_J0K0SM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" /> </p>
 
