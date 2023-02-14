@@ -1,6 +1,8 @@
+[![MasterHead]<https://www.facebook.com/photo/?fbid=2532370866905379&set=a.131863980289425>]
+
 <h1 align="center">Hi 👋, I'm Mohammad Aminul Islam</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coding+gif&rlz=1C1GCEU_en-GBBD941BD941&ei=dfTrY979N4K_4-EP8OmyqAc&ved=0ahUKEwiejLGX8pX9AhWC3zgGHfC0DHUQ4dUDCA8&oq=coding+gif&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQDDIECAAQQzIJCAAQBxAeEPEEMgkIABAHEB4Q8QQyCQgAEAcQHhDxBDIJCAAQBxAeEPEEMgkIABAHEB4Q8QQyBAgAEEMyBQgAEIAEMgUIABCABDIFCAAQgAQ6CggAEEcQ1gQQsANKBAhBGABKBAhGGABQ-gNY-gNgsSJoAXABeACAAZ8BiAGfAZIBAzAuMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp#imgrc=Fdv9-fmPsfShWM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" /> </p>
 
@@ -34,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true&locale=en" alt="aminbiography" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminbiography&" alt="aminbiography" /></p>
+
