@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aminbiography" target="blank"><img src="https://img.shields.io/twitter/follow/aminbiography?logo=twitter&style=for-the-badge" alt="aminbiography" /></a> </p>
 
-- 🔭 I’m currently working on [idol wave](idolwave.org)
+- 🔭 I’m currently working at [idol wave](idolwave.org)
 
 - 🌱 I’m currently learning **React JS**
 
