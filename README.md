@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aminbiography" target="blank"><img src="https://img.shields.io/twitter/follow/aminbiography?logo=twitter&style=for-the-badge" alt="aminbiography" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/aminbiography/" target="blank"><img src="" alt="aminbiography" /></a> </p>
 
 - 🔭 I’m currently working at [idol wave](idolwave.org)
 
