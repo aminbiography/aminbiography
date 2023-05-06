@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Aminul Islam</h1>
 <h3 align="center">A professional web developer</h3>
+<p><img align="center" src="https://lottiefiles.com/90497-software-development" alt="" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" /> </p>
 
@@ -31,5 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true&locale=en" alt="aminbiography" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminbiography&" alt="aminbiography" /></p>
-<p><img align="center" src="https://lottiefiles.com/90497-software-development" alt="" /></p>
+
 
