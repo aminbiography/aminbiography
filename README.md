@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👨‍💻 All of my projects are available at [aminbiography.com](aminbiography.com)
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **aminsbiography@gmail.com**
