@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [idol wave](idolwave.org)
 
-- 🌱 I’m currently learning **MongoDB**
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **aminsbiography@gmail.com**
