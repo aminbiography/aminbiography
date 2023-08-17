@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md. Aminul Islam</h1>
-<h3 align="center">A professional web developer</h3>
+<h3 align="center">A professional web & SEO developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" /> </p>
 
 - 🔭 I’m currently working at [idol wave](idolwave.org)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development & SEO**
 
 - 📫 How to reach me **aminsbiography@gmail.com**
 
