@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Aminul Islam</h1>
+<h1 align="center">Hi, I am Md. Aminul Islam</h1>
 <h3 align="center">A professional Web & SEO Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" /> </p>
