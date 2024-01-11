@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working at [idol wave](idolwave.org)
 
-- 💬 Ask me about **Web Development & SEO**
+- 💬 Ask me about --- **Web Development & SEO**
 
-- 📫 How to reach me - **aminbiography.com**
+- 📫 How to reach me --- **aminbiography.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
