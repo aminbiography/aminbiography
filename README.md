@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" /> </p>
 
-- 🔭 I’m currently working at - **idol wave**
+- 🔭 I’m currently working at - <a href="https://idolwave.org/" target="blank">idol wave</a>
 
 - 💬 Ask me about - **Web Development & SEO**
 
