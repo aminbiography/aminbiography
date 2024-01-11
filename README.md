@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" /> </p>
 
-- 🔭 I’m currently working at --- [idol wave](idolwave.org)
+- 🔭 I’m currently working at - [idol wave]
 
-- 💬 Ask me about --- **Web Development & SEO**
+- 💬 Ask me about - **Web Development & SEO**
 
-- 📫 How to reach me --- **aminbiography.com**
+- 📫 How to reach me - **aminbiography.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
