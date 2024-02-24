@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at - <a href="https://idolwave.org/" target="blank">idol wave</a>
 
-- 💬 Ask me about - **Web Development & SEO**
+- 💬 Ask me about - **SEO Web Development**
 
 - 📫 How to reach me - <a href="https://aminbiography.com/" target="blank">aminbiography.com</a>
 <h3 align="left">Connect with me:</h3>
