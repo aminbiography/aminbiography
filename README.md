@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/> </p>
 
-- 🔭 I’m currently working at - <a target="_blank" href="https://www.google.com/search?q=idol+wave&sca_esv=6d7038bb3c82dcfc&biw=1536&bih=730&ei=bd9FZvOTJOOI4-EPgIuXuAQ&gs_ssp=eJzj4tVP1zc0LDYqL8nLTjEzYLRSNagwNjc1TTa3MExOTDSzSEo2tjKoMLJIS0s2MTBNNUkySEkztvTizEzJz1EoTyxLBQBjFhMf&oq=idol&gs_lp=Egxnd3Mtd2l6LXNlcnAiBGlkb2wqAggAMhAQLhiABBhDGMcBGIoFGK8BMgoQLhiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQLhiABBhDGIoFMgoQABiABBhDGIoFMhAQLhiABBixAxhDGNQCGIoFMgoQLhiABBhDGIoFMg0QLhiABBhDGNQCGIoFMh8QLhiABBhDGMcBGIoFGK8BGJcFGNwEGN4EGOAE2AEBSJQvUOsQWJEkcAN4AJABAJgBnAKgAcgJqgEFMC40LjK4AQHIAQD4AQGYAgqgAsAUwgIOEC4YgAQYsAMYxwEYrwHCAgkQABiwAxgHGB7CAgcQABiwAxgewgIJEAAYsAMYCBgewgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICERAAGIAEGJECGLEDGIMBGIoFwgIIEAAYgAQYsQPCAg4QLhiABBixAxiDARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYxwEYjgUYrwHCAg0QABiABBixAxhDGIoFwgIFEAAYgATCAg0QABiABBixAxiDARgKmAMAiAYBkAYKugYGCAEQARgUkgcJMy4yLjQuNy0xoAfnSw&sclient=gws-wiz-serp">idol wave</a>
+- 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idol+wave&sca_esv=6d7038bb3c82dcfc&biw=1536&bih=730&ei=bd9FZvOTJOOI4-EPgIuXuAQ&gs_ssp=eJzj4tVP1zc0LDYqL8nLTjEzYLRSNagwNjc1TTa3MExOTDSzSEo2tjKoMLJIS0s2MTBNNUkySEkztvTizEzJz1EoTyxLBQBjFhMf&oq=idol&gs_lp=Egxnd3Mtd2l6LXNlcnAiBGlkb2wqAggAMhAQLhiABBhDGMcBGIoFGK8BMgoQLhiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQLhiABBhDGIoFMgoQABiABBhDGIoFMhAQLhiABBixAxhDGNQCGIoFMgoQLhiABBhDGIoFMg0QLhiABBhDGNQCGIoFMh8QLhiABBhDGMcBGIoFGK8BGJcFGNwEGN4EGOAE2AEBSJQvUOsQWJEkcAN4AJABAJgBnAKgAcgJqgEFMC40LjK4AQHIAQD4AQGYAgqgAsAUwgIOEC4YgAQYsAMYxwEYrwHCAgkQABiwAxgHGB7CAgcQABiwAxgewgIJEAAYsAMYCBgewgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICERAAGIAEGJECGLEDGIMBGIoFwgIIEAAYgAQYsQPCAg4QLhiABBixAxiDARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYxwEYjgUYrwHCAg0QABiABBixAxhDGIoFwgIFEAAYgATCAg0QABiABBixAxiDARgKmAMAiAYBkAYKugYGCAEQARgUkgcJMy4yLjQuNy0xoAfnSw&sclient=gws-wiz-serp" target="_blank">idol wave</a>
 
 - 💬 Ask me about - **SEO Web Development**
 
-- 📫 How to reach me - <a target="_blank" href="https://aminbiography.com/">aminbiography.com</a>
+- 📫 How to reach me - <a href="https://aminbiography.com/" target="_blank">aminbiography.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aminbiography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aminbiography" height="30" width="40" /></a>
