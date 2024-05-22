@@ -8,7 +8,7 @@
 
 - 💬 Ask me about - **SEO Web Development**
 
-- 📫 How to reach me - <a onclick="google()" target="_blank" href="https://aminbiography.com/">aminbiography.com</a>
+- 📫 How to reach me - <a onclick="aminbiography.com()" target="_blank" href="https://aminbiography.com/">aminbiography.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aminbiography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aminbiography" height="30" width="40" /></a>
