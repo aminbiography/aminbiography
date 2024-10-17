@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/> </p>
 
-- 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idol+wave&sca_esv=6d7038bb3c82dcfc&biw=1536&bih=730&ei=bd9FZvOTJOOI4-EPgIuXuAQ&gs_ssp=eJzj4tVP1zc0LDYqL8nLTjEzYLRSNagwNjc1TTa3MExOTDSzSEo2tjKoMLJIS0s2MTBNNUkySEkztvTizEzJz1EoTyxLBQBjFhMf&oq=idol&gs_lp=Egxnd3Mtd2l6LXNlcnAiBGlkb2wqAggAMhAQLhiABBhDGMcBGIoFGK8BMgoQLhiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQABiABBhDGIoFMgoQLhiABBhDGIoFMgoQABiABBhDGIoFMhAQLhiABBixAxhDGNQCGIoFMgoQLhiABBhDGIoFMg0QLhiABBhDGNQCGIoFMh8QLhiABBhDGMcBGIoFGK8BGJcFGNwEGN4EGOAE2AEBSJQvUOsQWJEkcAN4AJABAJgBnAKgAcgJqgEFMC40LjK4AQHIAQD4AQGYAgqgAsAUwgIOEC4YgAQYsAMYxwEYrwHCAgkQABiwAxgHGB7CAgcQABiwAxgewgIJEAAYsAMYCBgewgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICERAAGIAEGJECGLEDGIMBGIoFwgIIEAAYgAQYsQPCAg4QLhiABBixAxiDARiKBcICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYxwEYjgUYrwHCAg0QABiABBixAxhDGIoFwgIFEAAYgATCAg0QABiABBixAxiDARgKmAMAiAYBkAYKugYGCAEQARgUkgcJMy4yLjQuNy0xoAfnSw&sclient=gws-wiz-serp" target="_blank">idol wave</a>
+- 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idolwave&sca_esv=6d7038bb3c82dcfc&biw=1534&bih=731&ei=U2ERZ7L4E_6x4-EPlLShwAU&ved=&uact=5&oq=idolwave&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGlkb2x3YXZlMg0QLhiABBjHARgKGK8BMgYQABgHGB4yCBAAGAcYHhgPMgYQABgHGB4yCBAAGAcYCBgeMggQABgHGAgYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYChgeGA8yHBAuGIAEGMcBGAoYrwEYlwUY3AQY3gQY4ATYAQFIpwlQ_AZY_AZwAXgAkAEAmAFpoAFpqgEDMC4xuAEDyAEA-AEBmAICoAKBAcICDhAuGIAEGLADGMcBGK8BwgIJEAAYsAMYBxgewgIHEAAYsAMYHsICCRAAGLADGAgYHpgDAIgGAZAGCroGBggBEAEYFJIHAzEuMaAHggk&sclient=gws-wiz-serp" target="_blank">idol wave</a>
 
 - 💬 Ask me about - **SEO Web Development**
 
