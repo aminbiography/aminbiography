@@ -8,20 +8,7 @@
 
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
-  <!-- Gold Star Shape -->
-  <polygon points="100,10 120,65 180,65 130,100 150,160 100,130 50,160 70,100 20,65 80,65" fill="#FFD700" />
-  
-  <!-- Circular Text -->
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20" fill="black">
-    <textPath href="#path">
-      Y o u r T e x t
-    </textPath>
-  </text>
-
-  <!-- Path for Circular Text -->
-  <path id="path" fill="transparent" d="M 50 50 A 50 50 0 0 1 150 50 A 50 50 0 0 1 50 50" />
-</svg>
+![SEO Web Developer Badge](https://raw.githubusercontent.com/your-username/your-repo/main/star-badge.svg)
 
 
 
