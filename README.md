@@ -8,7 +8,7 @@
 
 
 
-![SEO Web Developer Badge](https://raw.githubusercontent.com/your-username/your-repo/main/star-badge.svg)
+![SEO Web Developer Badge](https://raw.githubusercontent.com/aminbiography/your-repo/main/star-badge.svg)
 
 
 
