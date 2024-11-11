@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/> </p>
 
-![image](https://github.com/user-attachments/assets/02055c9d-0d46-4dd4-84d8-1f21325be136)
+
 
 
 
