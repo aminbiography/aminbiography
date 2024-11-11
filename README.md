@@ -2,11 +2,9 @@
 <h1 align="center">You can call me Amin</h1>
 <h3 align="center">A professional, SEO Web Developer & Consultant</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/> </p>  ![SEO Web Developer](https://img.shields.io/badge/SEO%20Web%20Developer-orange) 
 
-![SEO Web Developer](https://img.shields.io/badge/SEO%20Web%20Developer-orange)                <div style="width: 7px; height: 7px; border-radius: 50%; overflow: hidden; background-color: #f0f0f0;">
-  <img src="https://github.com/user-attachments/assets/235fc068-f52e-4ab5-af01-ac5e348bd7ad" width="5%" height="5%" style="object-fit: cover;" />
-</div>
+               
 
 
 
