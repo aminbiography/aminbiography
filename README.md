@@ -6,9 +6,19 @@
 
 ![SEO Web Developer Badge](https://img.shields.io/badge/SEO%20Web%20Developer-orange)
 
-<div style="position: relative; display: inline-block; font-size: 50px; width: 70px; height: 70px; background-color: #FFD700; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; justify-content: center; align-items: center; text-align: center; color: white;">
-  SEO Web Developer
+<div style="position: relative; display: inline-block; width: 120px; height: 120px; background-color: #FFD700; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-size: 12px; font-weight: bold; overflow: hidden;">
+  <div style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; font-size: 14px; transform: rotate(-30deg); transform-origin: center;">
+    <div style="position: absolute; transform: rotate(30deg);">Y</div>
+    <div style="position: absolute; transform: rotate(60deg);">o</div>
+    <div style="position: absolute; transform: rotate(90deg);">u</div>
+    <div style="position: absolute; transform: rotate(120deg);">r</div>
+    <div style="position: absolute; transform: rotate(150deg);">T</div>
+    <div style="position: absolute; transform: rotate(180deg);">e</div>
+    <div style="position: absolute; transform: rotate(210deg);">x</div>
+    <div style="position: absolute; transform: rotate(240deg);">t</div>
+  </div>
 </div>
+
 
 - 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idolwave&sca_esv=6d7038bb3c82dcfc&biw=1534&bih=731&ei=U2ERZ7L4E_6x4-EPlLShwAU&ved=&uact=5&oq=idolwave&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGlkb2x3YXZlMg0QLhiABBjHARgKGK8BMgYQABgHGB4yCBAAGAcYHhgPMgYQABgHGB4yCBAAGAcYCBgeMggQABgHGAgYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYChgeGA8yHBAuGIAEGMcBGAoYrwEYlwUY3AQY3gQY4ATYAQFIpwlQ_AZY_AZwAXgAkAEAmAFpoAFpqgEDMC4xuAEDyAEA-AEBmAICoAKBAcICDhAuGIAEGLADGMcBGK8BwgIJEAAYsAMYBxgewgIHEAAYsAMYHsICCRAAGLADGAgYHpgDAIgGAZAGCroGBggBEAEYFJIHAzEuMaAHggk&sclient=gws-wiz-serp" target="_blank">idol wave</a>
 
