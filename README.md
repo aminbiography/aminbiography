@@ -7,7 +7,8 @@
 ![SEO Web Developer Badge](https://img.shields.io/badge/SEO%20Web%20Developer-orange)
 
 
-![image](https://github.com/user-attachments/assets/d548718a-2946-4c72-bc11-8dec5950537a)
+<img src="https://github.com/user-attachments/assets/d548718a-2946-4c72-bc11-8dec5950537a" width="124" height="124" />
+
 
 
 
