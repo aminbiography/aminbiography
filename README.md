@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/></p>  
 
-![SEO Web Developer](https://img.shields.io/badge/SEO%20Web%20Developer-orange)              <img src="https://github.com/user-attachments/assets/47db2dc4-8e4b-447b-9ad5-8dac37cabb31" width="5%" />   <img src="https://github.com/user-attachments/assets/eb3cc3b5-9482-417a-9e7a-7cecb695b67a" width="5%" />         <img src="https://github.com/user-attachments/assets/d017ea80-d5ab-4bef-bd46-f17e711ef38d" width="5%" />                                 
+![SEO Web Developer](https://img.shields.io/badge/SEO%20Web%20Developer-orange)              
+<img src="https://github.com/user-attachments/assets/47db2dc4-8e4b-447b-9ad5-8dac37cabb31" width="5%" />   
+<img src="https://github.com/user-attachments/assets/eb3cc3b5-9482-417a-9e7a-7cecb695b67a" width="5%" />                
+<img src="https://github.com/user-attachments/assets/d017ea80-d5ab-4bef-bd46-f17e711ef38d" width="5%" />                                                            <img src="https://github.com/user-attachments/assets/523fa8d6-2cf0-45ec-85a8-a5dbf33a1f9d" width="5%" />                         
+
 
 
 
