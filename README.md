@@ -6,81 +6,22 @@
 
 ![SEO Web Developer Badge](https://img.shields.io/badge/SEO%20Web%20Developer-orange)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gold Star Badge</title>
-    <style>
-        /* Style for the Star Shape */
-        .star {
-            position: relative;
-            width: 150px;
-            height: 150px;
-            background-color: #FFD700;
-            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 16px;
-            font-weight: bold;
-            color: white;
-            overflow: hidden;
-        }
-
-        /* Styling for the circular text path */
-        .circle-text {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            transform: rotate(-22.5deg); /* Rotate the text to start from the top */
-        }
-
-        .circle-text span {
-            position: absolute;
-            transform-origin: center;
-            animation: rotateText 10s infinite linear;
-        }
-
-        .circle-text span:nth-child(1) { transform: rotate(0deg); }
-        .circle-text span:nth-child(2) { transform: rotate(45deg); }
-        .circle-text span:nth-child(3) { transform: rotate(90deg); }
-        .circle-text span:nth-child(4) { transform: rotate(135deg); }
-        .circle-text span:nth-child(5) { transform: rotate(180deg); }
-        .circle-text span:nth-child(6) { transform: rotate(225deg); }
-        .circle-text span:nth-child(7) { transform: rotate(270deg); }
-        .circle-text span:nth-child(8) { transform: rotate(315deg); }
-
-        /* Add an animation to rotate the text around the circle */
-        @keyframes rotateText {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-    </style>
-</head>
-<body>
-
-    <div class="star">
-        <div class="circle-text">
-            <span>Y</span>
-            <span>o</span>
-            <span>u</span>
-            <span>r</span>
-            <span>T</span>
-            <span>e</span>
-            <span>x</span>
-            <span>t</span>
-        </div>
-    </div>
-
-</body>
-</html>
 
 
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Gold Star Shape -->
+  <polygon points="100,10 120,65 180,65 130,100 150,160 100,130 50,160 70,100 20,65 80,65" fill="#FFD700" />
+  
+  <!-- Circular Text -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20" fill="black">
+    <textPath href="#path">
+      Y o u r T e x t
+    </textPath>
+  </text>
+
+  <!-- Path for Circular Text -->
+  <path id="path" fill="transparent" d="M 50 50 A 50 50 0 0 1 150 50 A 50 50 0 0 1 50 50" />
+</svg>
 
 
 
