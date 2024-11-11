@@ -7,7 +7,7 @@
 ![SEO Web Developer Badge](https://img.shields.io/badge/SEO%20Web%20Developer-orange)
 
 <div style="position: relative; display: inline-block; width: 120px; height: 120px; background-color: #FFD700; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; justify-content: center; align-items: center; text-align: center; font-size: 14px; font-weight: bold; overflow: hidden;">
-  <div style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+  <div style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; transform: rotate(0deg);">
     <div style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; transform: rotate(-22.5deg);">
       <span style="position: absolute; transform: rotate(0deg);">Y</span>
       <span style="position: absolute; transform: rotate(45deg);">o</span>
