@@ -6,20 +6,84 @@
 
 ![SEO Web Developer Badge](https://img.shields.io/badge/SEO%20Web%20Developer-orange)
 
-<div style="position: relative; display: inline-block; width: 120px; height: 120px; background-color: #FFD700; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; justify-content: center; align-items: center; text-align: center; font-size: 14px; font-weight: bold; overflow: hidden;">
-  <div style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; transform: rotate(0deg);">
-    <div style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; transform: rotate(-22.5deg);">
-      <span style="position: absolute; transform: rotate(0deg);">Y</span>
-      <span style="position: absolute; transform: rotate(45deg);">o</span>
-      <span style="position: absolute; transform: rotate(90deg);">u</span>
-      <span style="position: absolute; transform: rotate(135deg);">r</span>
-      <span style="position: absolute; transform: rotate(180deg);">T</span>
-      <span style="position: absolute; transform: rotate(225deg);">e</span>
-      <span style="position: absolute; transform: rotate(270deg);">x</span>
-      <span style="position: absolute; transform: rotate(315deg);">t</span>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gold Star Badge</title>
+    <style>
+        /* Style for the Star Shape */
+        .star {
+            position: relative;
+            width: 150px;
+            height: 150px;
+            background-color: #FFD700;
+            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
+            overflow: hidden;
+        }
+
+        /* Styling for the circular text path */
+        .circle-text {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transform: rotate(-22.5deg); /* Rotate the text to start from the top */
+        }
+
+        .circle-text span {
+            position: absolute;
+            transform-origin: center;
+            animation: rotateText 10s infinite linear;
+        }
+
+        .circle-text span:nth-child(1) { transform: rotate(0deg); }
+        .circle-text span:nth-child(2) { transform: rotate(45deg); }
+        .circle-text span:nth-child(3) { transform: rotate(90deg); }
+        .circle-text span:nth-child(4) { transform: rotate(135deg); }
+        .circle-text span:nth-child(5) { transform: rotate(180deg); }
+        .circle-text span:nth-child(6) { transform: rotate(225deg); }
+        .circle-text span:nth-child(7) { transform: rotate(270deg); }
+        .circle-text span:nth-child(8) { transform: rotate(315deg); }
+
+        /* Add an animation to rotate the text around the circle */
+        @keyframes rotateText {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="star">
+        <div class="circle-text">
+            <span>Y</span>
+            <span>o</span>
+            <span>u</span>
+            <span>r</span>
+            <span>T</span>
+            <span>e</span>
+            <span>x</span>
+            <span>t</span>
+        </div>
     </div>
-  </div>
-</div>
+
+</body>
+</html>
+
+
+
+
+
 
 
 - 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idolwave&sca_esv=6d7038bb3c82dcfc&biw=1534&bih=731&ei=U2ERZ7L4E_6x4-EPlLShwAU&ved=&uact=5&oq=idolwave&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGlkb2x3YXZlMg0QLhiABBjHARgKGK8BMgYQABgHGB4yCBAAGAcYHhgPMgYQABgHGB4yCBAAGAcYCBgeMggQABgHGAgYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYChgeGA8yHBAuGIAEGMcBGAoYrwEYlwUY3AQY3gQY4ATYAQFIpwlQ_AZY_AZwAXgAkAEAmAFpoAFpqgEDMC4xuAEDyAEA-AEBmAICoAKBAcICDhAuGIAEGLADGMcBGK8BwgIJEAAYsAMYBxgewgIHEAAYsAMYHsICCRAAGLADGAgYHpgDAIgGAZAGCroGBggBEAEYFJIHAzEuMaAHggk&sclient=gws-wiz-serp" target="_blank">idol wave</a>
