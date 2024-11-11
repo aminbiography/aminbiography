@@ -7,8 +7,15 @@
 ![SEO Web Developer Badge](https://img.shields.io/badge/SEO%20Web%20Developer-orange)
 
 
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Gold Star Shape -->
+  <polygon points="100,10 120,65 180,65 130,100 150,160 100,130 50,160 70,100 20,65 80,65" fill="#FFD700" />
 
-![SEO Web Developer Badge](https://raw.githubusercontent.com/aminbiography/your-repo/main/star-badge.svg)
+  <!-- Inner Text -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="20" fill="black">
+    Your Text
+  </text>
+</svg>
 
 
 
