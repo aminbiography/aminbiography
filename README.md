@@ -6,16 +6,18 @@
 
 ![SEO Web Developer Badge](https://img.shields.io/badge/SEO%20Web%20Developer-orange)
 
-<div style="position: relative; display: inline-block; width: 120px; height: 120px; background-color: #FFD700; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-size: 12px; font-weight: bold; overflow: hidden;">
-  <div style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; font-size: 14px; transform: rotate(-30deg); transform-origin: center;">
-    <div style="position: absolute; transform: rotate(30deg);">Y</div>
-    <div style="position: absolute; transform: rotate(60deg);">o</div>
-    <div style="position: absolute; transform: rotate(90deg);">u</div>
-    <div style="position: absolute; transform: rotate(120deg);">r</div>
-    <div style="position: absolute; transform: rotate(150deg);">T</div>
-    <div style="position: absolute; transform: rotate(180deg);">e</div>
-    <div style="position: absolute; transform: rotate(210deg);">x</div>
-    <div style="position: absolute; transform: rotate(240deg);">t</div>
+<div style="position: relative; display: inline-block; width: 120px; height: 120px; background-color: #FFD700; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-size: 14px; font-weight: bold; overflow: hidden;">
+  <div style="position: absolute; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+    <div style="position: absolute; transform-origin: center; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+      <span style="position: absolute; transform: rotate(0deg);">Y</span>
+      <span style="position: absolute; transform: rotate(45deg);">o</span>
+      <span style="position: absolute; transform: rotate(90deg);">u</span>
+      <span style="position: absolute; transform: rotate(135deg);">r</span>
+      <span style="position: absolute; transform: rotate(180deg);">T</span>
+      <span style="position: absolute; transform: rotate(225deg);">e</span>
+      <span style="position: absolute; transform: rotate(270deg);">x</span>
+      <span style="position: absolute; transform: rotate(315deg);">t</span>
+    </div>
   </div>
 </div>
 
