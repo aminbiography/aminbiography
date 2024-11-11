@@ -21,7 +21,6 @@
 <a href="https://instagram.com/aminbiography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aminbiography" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCjx169gDU9CKEzd25iS4hSw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjx169gdu9ckezd25is4hsw/featured" height="30" width="40" /></a>
 <a href="https://discord.gg/aminbiography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aminbiography" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@aminbiography" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="30" fill="WWhite" class="bi bi-tiktok" viewBox="0 0 16 16"> <path d="M9 0h1.98c.144.715.54 1.617 1.235 2.512C12.895 3.389 13.797 4 15 4v2c-1.753 0-3.07-.814-4-1.829V11a5 5 0 1 1-5-5v2a3 3 0 1 0 3 3z"/></svg></a>
 </p>
 
 
