@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/> </p>
 
-![SEO Web Developer](https://img.shields.io/badge/SEO%20Web%20Developer-orange)                 ![image](https://github.com/user-attachments/assets/550cea5a-6e42-4a21-8aca-76cd9f8b30da)
+![SEO Web Developer](https://img.shields.io/badge/SEO%20Web%20Developer-orange)                <img src="https://github.com/user-attachments/assets/550cea5a-6e42-4a21-8aca-76cd9f8b30da" width="10%" />
+
 
 
 
