@@ -6,7 +6,9 @@
 
 ![SEO Web Developer Badge](https://img.shields.io/badge/SEO%20Web%20Developer-orange)
 
-<div style="display: inline-block; font-size: 50px; color: #FFD700; text-shadow: 0 0 10px #FFD700, 0 0 20px #FFD700;">★</div>
+<div style="position: relative; display: inline-block; font-size: 50px; width: 70px; height: 70px; background-color: #FFD700; clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%); display: flex; justify-content: center; align-items: center; text-align: center; color: white;">
+  SEO Web Developer
+</div>
 
 - 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idolwave&sca_esv=6d7038bb3c82dcfc&biw=1534&bih=731&ei=U2ERZ7L4E_6x4-EPlLShwAU&ved=&uact=5&oq=idolwave&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGlkb2x3YXZlMg0QLhiABBjHARgKGK8BMgYQABgHGB4yCBAAGAcYHhgPMgYQABgHGB4yCBAAGAcYCBgeMggQABgHGAgYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYChgeGA8yHBAuGIAEGMcBGAoYrwEYlwUY3AQY3gQY4ATYAQFIpwlQ_AZY_AZwAXgAkAEAmAFpoAFpqgEDMC4xuAEDyAEA-AEBmAICoAKBAcICDhAuGIAEGLADGMcBGK8BwgIJEAAYsAMYBxgewgIHEAAYsAMYHsICCRAAGLADGAgYHpgDAIgGAZAGCroGBggBEAEYFJIHAzEuMaAHggk&sclient=gws-wiz-serp" target="_blank">idol wave</a>
 
