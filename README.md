@@ -39,10 +39,6 @@
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminbiography" alt="aminbiography" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminbiography" alt="aminbiography" />
-</div>
-
 
 
 
