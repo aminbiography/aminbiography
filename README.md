@@ -2,7 +2,7 @@
 <h1 align="center">You can call me Amin</h1>
 <h3 align="center">A professional, SEO Web Developer & Consultant</h3> 
 
-<p align="center"> <img src="https://img.shields.io/badge/SEO%20Web%20Developer-orange" style="width: 140px; height: 40px;" />    <img src="https://github.com/user-attachments/assets/47db2dc4-8e4b-447b-9ad5-8dac37cabb31" width=40px" />           <img src="https://github.com/user-attachments/assets/eb3cc3b5-9482-417a-9e7a-7cecb695b67a" width="40px" />             <img src="https://github.com/user-attachments/assets/d017ea80-d5ab-4bef-bd46-f17e711ef38d" width="40px" />    <img src="https://github.com/user-attachments/assets/523fa8d6-2cf0-45ec-85a8-a5dbf33a1f9d" width="40px" />            <img src="https://github.com/user-attachments/assets/3fa782d8-8a0c-4d0c-aa54-832d6980f0d5" width="40px" /></p>   
+<p align="center"> <img src="https://img.shields.io/badge/SEO%20Web%20Developer-orange" style="width: 140px; height: 40px;" />    <img src="https://github.com/user-attachments/assets/47db2dc4-8e4b-447b-9ad5-8dac37cabb31" width=40px" />           <img src="https://github.com/user-attachments/assets/eb3cc3b5-9482-417a-9e7a-7cecb695b67a" width="40px" />             <img src="https://github.com/user-attachments/assets/d017ea80-d5ab-4bef-bd46-f17e711ef38d" width="40px" />    <img src="https://github.com/user-attachments/assets/523fa8d6-2cf0-45ec-85a8-a5dbf33a1f9d" width="40px" />            <img src="https://github.com/user-attachments/assets/3fa782d8-8a0c-4d0c-aa54-832d6980f0d5" width="40px" />  <img src="https://img.shields.io/badge/Cyber%20Security%20Analyst-orange" style="width: 140px; height: 40px;" /></p>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/></p>  
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idolwave&sca_esv=6d7038bb3c82dcfc&biw=1534&bih=731&ei=U2ERZ7L4E_6x4-EPlLShwAU&ved=&uact=5&oq=idolwave&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGlkb2x3YXZlMg0QLhiABBjHARgKGK8BMgYQABgHGB4yCBAAGAcYHhgPMgYQABgHGB4yCBAAGAcYCBgeMggQABgHGAgYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYChgeGA8yHBAuGIAEGMcBGAoYrwEYlwUY3AQY3gQY4ATYAQFIpwlQ_AZY_AZwAXgAkAEAmAFpoAFpqgEDMC4xuAEDyAEA-AEBmAICoAKBAcICDhAuGIAEGLADGMcBGK8BwgIJEAAYsAMYBxgewgIHEAAYsAMYHsICCRAAGLADGAgYHpgDAIgGAZAGCroGBggBEAEYFJIHAzEuMaAHggk&sclient=gws-wiz-serp" target="_blank">idol wave</a>
 
-- 💬 Ask me about - **SEO Web Development**
+- 💬 Ask me about - **SEO Web Development & Cyber Security**
 
 - 📫 How to reach me - <a href="https://aminbiography.com/" target="_blank">aminbiography.com</a>
 <h3 align="left">Connect with me:</h3>
