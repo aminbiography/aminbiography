@@ -6,20 +6,21 @@
 ![aminbiography](https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif)
 
 
-<div style="display: block; width: 100px; height: 100px; background: tomato; margin: 2rem;"></div>
+<div style="width: 100px; height: 100px; background: tomato; margin: 2rem; animation: flipAnimation 1.5s ease-in-out infinite;"></div>
 
-<script type="module">
-  import { easings, flip } from 'https://cdn.jsdelivr.net/npm/@shoelace-style/animations@1/dist/index.js';
-
-  const box = document.querySelector('div');
-
-  box.animate(flip, {
-    duration: 1500,
-    iterations: Infinity,
-    easing: easings.easeInSine
-  });
-</script>
-
+<style>
+  @keyframes flipAnimation {
+    0% {
+      transform: rotateY(0deg);
+    }
+    50% {
+      transform: rotateY(180deg);
+    }
+    100% {
+      transform: rotateY(360deg);
+    }
+  }
+</style>
 
 
 
