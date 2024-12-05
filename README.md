@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 <h1 align="center">Hi, I am Md. Aminul Islam.</h1> 
 <h1 align="center">You can call me Amin</h1>
