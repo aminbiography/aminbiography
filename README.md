@@ -6,7 +6,7 @@
 ![aminbiography](https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif)
 
 
-<script src="/assets/js/dist/animate.js"></script>
+![aminbiography]<script src="/assets/js/dist/animate.js"></script>
 <script>
     var animate = new Animate({        
         target: '[data-animate]',
