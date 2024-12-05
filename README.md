@@ -1,13 +1,15 @@
 <div align="center">
 
-<h1 align="center">Hi, I am Md. Aminul Islam.</h1> 
-<h1 align="center">You can call me Amin</h1>
-<h3 align="center">A professional, SEO Web Developer & Consultant</h3> 
+<h1>Hi, I am Md. Aminul Islam.</h1> 
+<h1>You can call me Amin</h1>
+<h3>A professional, SEO Web Developer & Consultant</h3> 
 
  
 ![aminbiography](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM3bmpxdmF3aXpkNmFhbWFkNHQwN2o3OGtnZ3M4a3J1d2xkaWFmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp)
 
 </div>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/></p>  
 
