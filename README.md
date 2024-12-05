@@ -3,7 +3,7 @@
 <h3 align="center">A professional, SEO Web Developer & Consultant</h3> 
 
  
-![aminbiography](https://i.giphy.com/5nh8FKSRtxFEyuajGc.webp)
+![aminbiography](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM3bmpxdmF3aXpkNmFhbWFkNHQwN2o3OGtnZ3M4a3J1d2xkaWFmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp)
 
 
 
