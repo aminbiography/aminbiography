@@ -4,7 +4,7 @@
 
  
 
-<p align="center">![Animated GIF](https://cdn.pixabay.com/animation/2024/11/08/10/29/10-29-19-106_512.gif)</p> 
+![Animated GIF](https://cdn.pixabay.com/animation/2024/11/08/10/29/10-29-19-106_512.gif) 
 
 
 
