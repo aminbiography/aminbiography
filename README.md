@@ -3,8 +3,7 @@
 <h3 align="center">A professional, SEO Web Developer & Consultant</h3> 
 
  
-
-![Animated GIF](https://cdn.pixabay.com/animation/2024/11/08/10/29/10-29-19-106_512.gif) 
+<p align="center">![Animated GIF](https://cdn.pixabay.com/animation/2024/11/08/10/29/10-29-19-106_512.gif)</p> 
 
 
 
