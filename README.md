@@ -2,9 +2,9 @@
 <h1 align="center">You can call me Amin</h1>
 <h3 align="center">A professional, SEO Web Developer & Consultant</h3> 
 
-<p align="center"> <img src="https://img.shields.io/badge/SEO%20Web%20Developer-orange" style="width: 140px; height: 40px;" />  <img src="https://github.com/user-attachments/assets/3fa782d8-8a0c-4d0c-aa54-832d6980f0d5" width="40px" />   <img src="https://i.pinimg.com/736x/4f/06/9c/4f069c0559b215df10d810777fafbea5.jpg" width="40px" />         <img src="https://github.com/user-attachments/assets/d017ea80-d5ab-4bef-bd46-f17e711ef38d" width="40px" />    <img src="https://github.com/user-attachments/assets/523fa8d6-2cf0-45ec-85a8-a5dbf33a1f9d" width="40px" />       <img src="https://i.pinimg.com/736x/21/6f/68/216f6865d2a421c0b4b52951bdb67342.jpg" width="40px" /> <img src="https://img.shields.io/badge/Cybersecurity%20%20Practitioner-orange" style="width: 140px; height: 40px;" /></p>   
+ 
 
-![Animated GIF](https://cdn.pixabay.com/animation/2024/11/08/10/29/10-29-19-106_512.gif)
+<p align="center">![Animated GIF](https://cdn.pixabay.com/animation/2024/11/08/10/29/10-29-19-106_512.gif)</p> 
 
 
 
