@@ -6,25 +6,18 @@
 ![aminbiography](https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif)
 
 
-![aminbiography]<script src="/assets/js/dist/animate.js"></script>
-<script>
-    var animate = new Animate({        
-        target: '[data-animate]',
-        animatedClass: 'js-animated',
-        offset: [0.5, 0.5],
-        delay: 0,
-        remove: true,
-        scrolled: false,
-        reverse: false,
-        onLoad: true,
-        onScroll: true,
-        onResize: false,
-        disableFilter: false,
-        callbackOnInit: function() {},
-        callbackOnInView: function(el) {},
-        callbackOnAnimate: function(el) {},
-    });
-    animate.init();
+<div style="display: block; width: 100px; height: 100px; background: tomato; margin: 2rem;"></div>
+
+<script type="module">
+  import { easings, flip } from 'https://cdn.jsdelivr.net/npm/@shoelace-style/animations@1/dist/index.js';
+
+  const box = document.querySelector('div');
+
+  box.animate(flip, {
+    duration: 1500,
+    iterations: Infinity,
+    easing: easings.easeInSine
+  });
 </script>
 
 
