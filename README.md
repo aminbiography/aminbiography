@@ -14,10 +14,10 @@ You can call me Amin</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=BC01FF&style=flat" alt="aminbiography"/></p> 
 
-<img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views-1234-BC01FF?style=flat&logo=github&logoColor=white&labelColor=0e75b6" alt="aminbiography"/>
-
-
-
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/50/BC01FF/github.png" alt="GitHub logo" style="width:20px; height:20px; margin-right:5px;" />
+  <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=BC01FF&style=flat" alt="aminbiography" />
+</p>
 
                  
 
