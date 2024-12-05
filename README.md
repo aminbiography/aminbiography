@@ -1,7 +1,8 @@
 <div align="center">
 
 <h1>Hi, I am Md. Aminul Islam. 
-<br>You can call me Amin</h1>
+<br>
+You can call me Amin</h1>
 <h3>A professional, SEO Web Developer & Consultant</h3> 
 
  
@@ -11,7 +12,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/></p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=E03FD8&style=flat" alt="aminbiography"/></p>  
 
                  
 
