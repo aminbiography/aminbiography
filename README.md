@@ -3,7 +3,7 @@
 <h3 align="center">A professional, SEO Web Developer & Consultant</h3> 
 
  
-![aminbiography](https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif)
+![aminbiography](https://app.lottiefiles.com/animation/5d6c6aca-286e-4687-a4e8-023cf7910265)
 
 
 
@@ -11,8 +11,7 @@
 
 
 
-<script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
-<dotlottie-player src="https://lottie.host/489c8ee9-15f1-4bf4-87f8-ff9396744d1f/OduhRGSFnB.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+
 
 
 
