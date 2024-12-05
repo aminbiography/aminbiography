@@ -6,37 +6,7 @@
 
 
 
-# Overview
 
-Welcome to **My Awesome Project**!
-
-<div style="text-align: center;">
-  <h2 style="font-size: 40px; font-family: Arial, sans-serif; animation: bounce 2s infinite;">Welcome to the Project!</h2>
-  <p style="font-size: 20px; font-family: Arial, sans-serif; animation: fadeIn 3s;">This project is designed to showcase some cool features.</p>
-</div>
-
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-30px);
-    }
-    60% {
-      transform: translateY(-15px);
-    }
-  }
-
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
-</style>
 
 
 
