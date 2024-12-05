@@ -3,7 +3,8 @@
 <h3 align="center">A professional, SEO Web Developer & Consultant</h3> 
 
  
-![aminbiography](https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif)
+![aminbiography](https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif)![aminbiography](https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif)
+
 
 
 
