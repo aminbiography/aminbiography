@@ -4,6 +4,49 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/SEO%20Web%20Developer-orange" style="width: 140px; height: 40px;" />  <img src="https://github.com/user-attachments/assets/3fa782d8-8a0c-4d0c-aa54-832d6980f0d5" width="40px" />   <img src="https://i.pinimg.com/736x/4f/06/9c/4f069c0559b215df10d810777fafbea5.jpg" width="40px" />         <img src="https://github.com/user-attachments/assets/d017ea80-d5ab-4bef-bd46-f17e711ef38d" width="40px" />    <img src="https://github.com/user-attachments/assets/523fa8d6-2cf0-45ec-85a8-a5dbf33a1f9d" width="40px" />       <img src="https://i.pinimg.com/736x/21/6f/68/216f6865d2a421c0b4b52951bdb67342.jpg" width="40px" /> <img src="https://img.shields.io/badge/Cybersecurity%20%20Practitioner-orange" style="width: 140px; height: 40px;" /></p>   
 
+
+
+# Overview
+
+Welcome to **Project Name**!
+
+<div style="text-align: center;">
+  <h2 style="font-size: 40px; font-family: Arial, sans-serif; animation: bounce 2s infinite;">Welcome to the Project!</h2>
+  <p style="font-size: 20px; font-family: Arial, sans-serif; animation: fadeIn 3s;">This project is designed to showcase some cool features.</p>
+</div>
+
+<style>
+  /* Bounce Animation */
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+
+  /* Fade-in Animation */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
+
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography"/></p>  
 
                  
