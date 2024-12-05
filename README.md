@@ -8,7 +8,7 @@
 
 # Overview
 
-Welcome to **Project Name**!
+Welcome to **My Awesome Project**!
 
 <div style="text-align: center;">
   <h2 style="font-size: 40px; font-family: Arial, sans-serif; animation: bounce 2s infinite;">Welcome to the Project!</h2>
@@ -16,7 +16,6 @@ Welcome to **Project Name**!
 </div>
 
 <style>
-  /* Bounce Animation */
   @keyframes bounce {
     0%, 20%, 50%, 80%, 100% {
       transform: translateY(0);
@@ -29,7 +28,6 @@ Welcome to **Project Name**!
     }
   }
 
-  /* Fade-in Animation */
   @keyframes fadeIn {
     0% {
       opacity: 0;
@@ -39,6 +37,7 @@ Welcome to **Project Name**!
     }
   }
 </style>
+
 
 
 
