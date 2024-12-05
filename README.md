@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Hi, I am Md. Aminul Islam.</h1> 
-<h1>You can call me Amin</h1>
+<h1>Hi, I am Md. Aminul Islam. 
+<br>You can call me Amin</h1>
 <h3>A professional, SEO Web Developer & Consultant</h3> 
 
  
