@@ -16,6 +16,8 @@ You can call me Amin</h1>
 
 <img src="https://img.shields.io/badge/Profile%20views-1234-BC01FF?style=flat&logo=github&logoColor=white&labelColor=0e75b6" alt="aminbiography"/>
 
+<img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=BC01FF&labelColor=0e75b6&style=flat" alt="aminbiography" />
+
                  
 
 - 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idolwave&sca_esv=6d7038bb3c82dcfc&biw=1534&bih=731&ei=U2ERZ7L4E_6x4-EPlLShwAU&ved=&uact=5&oq=idolwave&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGlkb2x3YXZlMg0QLhiABBjHARgKGK8BMgYQABgHGB4yCBAAGAcYHhgPMgYQABgHGB4yCBAAGAcYCBgeMggQABgHGAgYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYChgeGA8yHBAuGIAEGMcBGAoYrwEYlwUY3AQY3gQY4ATYAQFIpwlQ_AZY_AZwAXgAkAEAmAFpoAFpqgEDMC4xuAEDyAEA-AEBmAICoAKBAcICDhAuGIAEGLADGMcBGK8BwgIJEAAYsAMYBxgewgIHEAAYsAMYHsICCRAAGLADGAgYHpgDAIgGAZAGCroGBggBEAEYFJIHAzEuMaAHggk&sclient=gws-wiz-serp" target="_blank">idol wave</a>
