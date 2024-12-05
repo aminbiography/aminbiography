@@ -12,7 +12,7 @@ You can call me Amin</h1>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=E03FD8&style=flat" alt="aminbiography"/></p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=BC01FF&style=flat" alt="aminbiography"/></p>  
 
                  
 
