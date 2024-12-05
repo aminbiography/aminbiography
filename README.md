@@ -6,7 +6,26 @@
 ![aminbiography](https://cdn.pixabay.com/animation/2023/08/17/08/51/08-51-41-992_512.gif)
 
 
-
+<script src="/assets/js/dist/animate.js"></script>
+<script>
+    var animate = new Animate({        
+        target: '[data-animate]',
+        animatedClass: 'js-animated',
+        offset: [0.5, 0.5],
+        delay: 0,
+        remove: true,
+        scrolled: false,
+        reverse: false,
+        onLoad: true,
+        onScroll: true,
+        onResize: false,
+        disableFilter: false,
+        callbackOnInit: function() {},
+        callbackOnInView: function(el) {},
+        callbackOnAnimate: function(el) {},
+    });
+    animate.init();
+</script>
 
 
 
