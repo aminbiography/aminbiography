@@ -14,7 +14,7 @@ You can call me Amin</h1>
 
 - <p align="left">
   <img src="https://img.icons8.com/ios-filled/50/BC01FF/github.png" alt="GitHub logo" style="width:20px; height:20px; margin-right:5px;" />
-  <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=FFFFFF&style=flat" alt="aminbiography" />
+  <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" />
 </p>
 
                  
