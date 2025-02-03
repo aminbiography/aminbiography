@@ -23,7 +23,7 @@ You can call me Amin</h1>
 
 - 👯 Looking to collaborate on - Cybersecurity
 
-- 💬 Ask me about - **SEO Web Development & Cyber Security**
+- 💬 Ask me about - **Cyber Security & SEO Web Development**
 
 - 📫 How to reach me - <a href="https://aminbiography.com/" target="_blank">aminbiography.com</a>
 
