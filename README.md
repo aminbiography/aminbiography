@@ -5,10 +5,9 @@
 You can call me Amin</h1>
 <h3>Infosec SEO Developer</h3> 
 
-<video src="https://cdn.pixabay.com/video/2019/10/09/27706-365890968_tiny.mp4" controls style="max-width: 100%; margin-top: 20px;">
+<video src="https://cdn.pixabay.com/video/2019/10/09/27706-365890968_tiny.mp4" controls width="600">
   Your browser does not support the video tag.
 </video>
-
 
 
 
