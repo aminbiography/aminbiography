@@ -6,7 +6,8 @@ You can call me Amin</h1>
 <h3>Infosec SEO Developer</h3> 
 
  
-![aminbiography](https://pixabay.com/videos/glitch-code-programming-hacker-27706/)
+![aminbiography][![Watch the video](https://img.youtube.com/vi/ScMzIvxBSi4/0.jpg)](https://pixabay.com/videos/glitch-code-programming-hacker-27706/)
+
 
 </div>
 
