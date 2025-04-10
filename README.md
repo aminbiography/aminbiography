@@ -10,6 +10,12 @@ You can call me Amin</h1>
 </div>
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif" alt="Cyber Hacker" width="400" height="250">
+</div>
+
+
+
 </div>
 
 
