@@ -7,6 +7,8 @@ You can call me Amin</h1>
 
  
 ![aminbiography][![Watch the video](https://img.youtube.com/vi/ScMzIvxBSi4/0.jpg)](https://pixabay.com/videos/glitch-code-programming-hacker-27706/)
+<video src="URL_TO_YOUR_VIDEO" controls="controls" style="max-width: 100%;">
+</video>
 
 
 </div>
