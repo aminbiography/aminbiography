@@ -9,7 +9,7 @@ You can call me Amin</h1>
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif?cid=ecf05e47uz29o2h1h2y75zr4dth3mkduhstraot3ssecilam&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Cyber Hacker" width="400" height="250">
+  <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hacker" width="500" height="200">
 </div>
 
 
