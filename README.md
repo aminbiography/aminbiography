@@ -8,7 +8,8 @@ You can call me Amin</h1>
 ![aminbiography](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBsbDJ5N3JrbDMxN204Yjk0eTNwajU3ZzRkcDRiM3ZkaDd5cm9tMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.webp)
 
 
-![Description](URL_to_the_GIF)
+![Hacker Typing with Green Code](URL_to_the_GIF)
+
 
 </div>
 
