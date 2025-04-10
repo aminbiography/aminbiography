@@ -6,7 +6,7 @@ You can call me Amin</h1>
 <h3>Infosec SEO Developer</h3> 
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hacker" width="200" height="400">
+  <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hacker" width="400" height="200">
 </div>
 
 
