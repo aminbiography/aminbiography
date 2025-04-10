@@ -5,10 +5,7 @@
 You can call me Amin</h1>
 <h3>Infosec SEO Developer</h3> 
 
-<video src="https://cdn.pixabay.com/video/2019/10/09/27706-365890968_tiny.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
-
+![aminbiography](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBsbDJ5N3JrbDMxN204Yjk0eTNwajU3ZzRkcDRiM3ZkaDd5cm9tMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.webp)
 
 
 </div>
