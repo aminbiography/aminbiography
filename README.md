@@ -15,11 +15,11 @@ You can call me Amein</h1>
 
 <div align="center">
   <a href="https://www.credly.com/badges/c445689f-365e-4a93-bd0b-23e8014be0c0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/505080ad-3731-4b1d-98df-347655a45750/image.png" alt="Google Cloud Cybersecurity Certificate" width="100" height="200">
+    <img src="https://images.credly.com/size/220x220/images/505080ad-3731-4b1d-98df-347655a45750/image.png" alt="Google Cloud Cybersecurity Certificate" width="100" height="100">
   </a>
   <a href="https://coursera.org/share/2d84f38952e65200eeb04677e123cfb4" target="_blank">
     <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XK3O4KF9XVEM/CERTIFICATE_LANDING_PAGE~XK3O4KF9XVEM.jpeg" alt="
-Crash Course on Python" width="140" height="140">
+Crash Course on Python" width="100" height="100">
   </a>
   <a href="https://www.credly.com/badges/24013a6e-ac8d-47fd-ba57-1e493bfc9e1e/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/b2c0b492-138c-4cd5-8c51-a61a3e742418/blob" alt="Google Digital Marketing & E-commerce Professional Certificate" width="100" height="100">
