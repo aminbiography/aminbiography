@@ -15,7 +15,7 @@ You can call me Amein</h1>
 
 <div align="center">
   <a href="https://www.credly.com/badges/c445689f-365e-4a93-bd0b-23e8014be0c0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/505080ad-3731-4b1d-98df-347655a45750/image.png" alt="Google Cloud Cybersecurity Certificate" width="140" height="140">
+    <img src="https://github.com/aminbiography/Google-Cloud-Cybersecurity-Professional-Certificate/blob/main/bar-graph-chart-image/Google-Badges-%26-Python-Cert.png" alt="Google Cloud Cybersecurity Certificate" width="140" height="140">
   </a>
 </div>
 
