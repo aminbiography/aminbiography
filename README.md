@@ -1,23 +1,24 @@
 <div align="center">
 
-<h1>Hi, I am Md. Aminul Islam. 
+<h1>Hi, I am Md. Aminul Islam.
 <br>
 You can call me Amein</h1>
-<h3>Infosec SEO Developer</h3> 
+<h3>Infosec SEO Developer</h3>
+
+
+
 
 <div align="center">
   <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hacker" width="400" height="200">
 </div>
 
 
-<div align="center">
-  <a href="https://www.credly.com/badges/c445689f-365e-4a93-bd0b-23e8014be0c0/public_url" target="_blank">
-    <img src="https://github.com/aminbiography/Google-Cloud-Cybersecurity-Professional-Certificate/blob/main/bar-graph-chart-image/Google-Badges-%26-Python-Cert.png" alt="Google Cloud Cybersecurity Certificate" width="400" height="200">
-  </a>
+
 </div>
 
 
--- <p align="left">
+
+- <p align="left">
   <img src="https://img.icons8.com/ios-filled/50/BC01FF/github.png" alt="GitHub logo" style="width:20px; height:20px; margin-right:5px;" />
   <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" />
 </p>
@@ -58,8 +59,3 @@ You can call me Amein</h1>
 
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminbiography" alt="aminbiography" /> </p>
-
-
-
-
-
