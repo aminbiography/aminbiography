@@ -21,7 +21,7 @@ You can call me Amein</h1>
     <img src="https://images.credly.com/size/220x220/images/2f7e1a41-c1b4-4930-ba40-5d2f7f3cbb7f/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Cert" width="140" height="140">
   </a>
   <a href="https://www.credly.com/badges/c445689f-365e-4a93-bd0b-23e8014be0c0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/505080ad-3731-4b1d-98df-347655a45750/image.png" alt="Google Data Analytics Cert" width="140" height="140">
+    <img src="https://images.credly.com/size/220x220/images/505080ad-3731-4b1d-98df-347655a45750/image.png" alt="Google Data Analytics Cert" width="200" height="200">
   </a>
 </div>
 
