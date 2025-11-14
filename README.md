@@ -19,33 +19,6 @@ You can call me Amein</h1>
        height="200">
 </div>
 
-<br>
-
-<div align="center" style="display:flex; justify-content:center; gap:20px;">
-
-  <!-- Google Data Analytics -->
-  <a href="https://www.credly.com/badges/c445689f-365e-4a93-bd0b-23e8014be0c0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/0f8232ab-c540-45c6-9049-222bc3ea675d/image.png" 
-         alt="Google Data Analytics Certificate" 
-         width="130" 
-         height="130">
-  </a>
-
-  <!-- Google IT Support -->
-  <a href="https://www.credly.com/badges/16ebe7e0-7d72-47f3-a408-85e6af10de82/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/2f7e1a41-c1b4-4930-ba40-5d2f7f3cbb7f/GCC_badge_IT_Support_1000x1000.png" 
-         alt="Google IT Support Certificate" 
-         width="130" 
-         height="130">
-  </a>
-
-  <!-- Google Digital Marketing & E-commerce -->
-  <a href="https://www.credly.com/badges/24013a6e-ac8d-47fd-ba57-1e493bfc9e1e/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/b2c0b492-138c-4cd5-8c51-a61a3e742418/blob" 
-         alt="Google Digital Marketing & E-commerce Certificate" 
-         width="130" 
-         height="130">
-  </a>
 
 </div>
 
