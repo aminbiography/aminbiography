@@ -12,15 +12,7 @@ You can call me Amein</h1>
   <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hacker" width="400" height="200">
 </div>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" 
-       alt="Hacker" 
-       width="400" 
-       height="200">
-</div>
 
-
-</div>
 
 
 
