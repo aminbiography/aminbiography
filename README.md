@@ -19,7 +19,7 @@ You can call me Amein</h1>
   </a>
   <a href="https://coursera.org/share/2d84f38952e65200eeb04677e123cfb4" target="_blank">
     <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XK3O4KF9XVEM/CERTIFICATE_LANDING_PAGE~XK3O4KF9XVEM.jpeg" alt="
-Crash Course on Python" width="100" height="100">
+Crash Course on Python" width="100" height="200">
   </a>
   <a href="https://www.credly.com/badges/24013a6e-ac8d-47fd-ba57-1e493bfc9e1e/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/b2c0b492-138c-4cd5-8c51-a61a3e742418/blob" alt="Google Digital Marketing & E-commerce Professional Certificate" width="100" height="100">
