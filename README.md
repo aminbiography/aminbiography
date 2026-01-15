@@ -59,8 +59,9 @@ You can call me Amein</h1>
 
 | Top Langs | GitHub Stats |
 |---|---|
-| ![](https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs?username=aminbiography&layout=compact) | ![](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=aminbiography&show_icons=true) |
-| ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=aminbiography) | ![](https://github-profile-trophy.vercel.app/?username=aminbiography) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminbiography) | ![](https://github-profile-trophy.vercel.app/?username=aminbiography) |
+
 
 
 
