@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I am Mohammad. Aminul Islam.
+<h1>Hi, I am Mohammad Aminul Islam.
 <br>
 You can call me Amein</h1>
 <h3>SEO Developer</h3>
