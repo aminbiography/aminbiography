@@ -197,7 +197,13 @@ You can call me Amein</h3>
 
 
 
-| Top Langs | GitHub Stats |
-|---|---|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true) |
-| ![](https://streak-stats.demolab.com?user=aminbiography) | ![](https://github-profile-trophy.vercel.app/?username=aminbiography) |
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact"></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true"></td>
+</tr>
+<tr>
+<td><img src="https://streak-stats.demolab.com?user=aminbiography"></td>
+<td><img src="https://github-profile-trophy.vercel.app/?username=aminbiography"></td>
+</tr>
+</table>
