@@ -203,7 +203,8 @@ You can call me Amein</h3>
 <td><img src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true"></td>
 </tr>
 <tr>
-<td><img src="https://streak-stats.demolab.com?user=aminbiography"></td>
-<td><img src="https://github-profile-trophy.vercel.app/?username=aminbiography"></td>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com?user=aminbiography">
+</td>
 </tr>
 </table>
