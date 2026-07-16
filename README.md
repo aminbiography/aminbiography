@@ -48,23 +48,8 @@ You can call me Amein</h3>
       </a>
     </td>
     <td align="center">
-      <a href="https://twitter.com/aminbiography" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://fb.com/aminbiography" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.reddit.com/user/aminbiography" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/aminbiography" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
       </a>
     </td>
     <td align="center">
