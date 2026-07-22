@@ -3,7 +3,7 @@
 <h3>Hi, I am Mohammad Aminul Islam.
 <br>
 You can call me Amein</h3>
-<h5>SEO Developer</h5>
+<h5>Search Architect & SEO Developer</h5>
 
 
 <div align="center">
