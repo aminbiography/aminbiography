@@ -67,6 +67,11 @@ You can call me Amein</h3>
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://dev.to/aminbiography" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV Community" width="40" height="40" />
+      </a>
+    </td>
   </tr>
 </table>
 
