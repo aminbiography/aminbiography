@@ -201,32 +201,39 @@ width="30" height="30" />
 
 <h2>GitHub Overview</h2>
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    alt="GitHub logo"
-    width="80"
-    height="80"
-  />
-
-  <p>
-    A visual overview of my primary programming languages, GitHub activity,
-    and contribution history.
-  </p>
-</div>
-
 <table>
   <tr>
     <td align="center">
       <img
+        src="https://camo.githubusercontent.com/3c93a671f8c33071d1ad81059d4411c69b46e5076fd84169b3fc82117291dfaf/68747470733a2f2f692e70696e696d672e636f6d2f373336782f30362f32612f65342f30363261653463613936396161306563383461663038323364336639396564312e6a7067"
+        alt="Programming languages visual"
+        width="400"
+        height="195"
+      />
+
+      <br />
+
+      <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact"
         alt="Most-used programming languages for aminbiography"
+        width="400"
       />
     </td>
+
     <td align="center">
+      <img
+        src="https://camo.githubusercontent.com/8b0bfa984544b288a8f6c78cdbc4d81aeafe60569afd01a2871d444b08a86a33/68747470733a2f2f692e70696e696d672e636f6d2f373336782f33352f35322f66342f33353532663433313832376138643132613666353033343238356432353332302e6a7067"
+        alt="GitHub development activity visual"
+        width="400"
+        height="195"
+      />
+
+      <br />
+
       <img
         src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true"
         alt="GitHub statistics for aminbiography"
+        width="400"
       />
     </td>
   </tr>
@@ -234,8 +241,18 @@ width="30" height="30" />
   <tr>
     <td colspan="2" align="center">
       <img
+        src="YOUR-THIRD-STATIC-IMAGE-URL"
+        alt="GitHub contribution visual"
+        width="400"
+        height="195"
+      />
+
+      <br />
+
+      <img
         src="https://streak-stats.demolab.com?user=aminbiography"
         alt="GitHub contribution streak for aminbiography"
+        width="400"
       />
     </td>
   </tr>
