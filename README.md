@@ -30,7 +30,7 @@
 
 - 👯 Looking to collaborate on - **SOC operations and Search Architecture**
 
-- 💬 Ask me about - **Search Architecture, SOC operations, Cloud Security, Website Integrity, LLMs, AEO, and AI Visibility**
+- 💬 Ask me about - **Search Architecture, SOC operations, Cloud Security, Website Integrity, LLMs, and AI Visibility**
 
 - 📫 How to reach me - <a href="https://aminbiography.com/" target="_blank">aminbiography.com</a>
 
