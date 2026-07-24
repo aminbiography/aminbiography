@@ -14,8 +14,6 @@
     <img src="https://github.com/aminbiography/Google-Cloud-Cybersecurity-Professional-Certificate/blob/main/bar-graph-chart-image/GoogleBadges.png" alt="Google Cloud Cybersecurity Certificate" width="400" height="200">
   </a>
 
-    <br><br>
-
   <a
     aria-label="View Credly credentials in a new tab"
     class="credential-link"
