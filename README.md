@@ -165,6 +165,8 @@
 </table>
 
 
+## GitHub Overview
+
 <table>
 <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact"></td>
@@ -178,20 +180,12 @@
 </table>
 
 
+## GitHub
 
-## GitHub Overview
+- 🌐 Explore my public repositories
+- 💡 Search Architecture
+- 🔒 Website Integrity
+- 🤖 AI Visibility
+- ⚙️ JavaScript Development
 
-<p align="center">
-  <a href="https://github.com/aminbiography">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true&hide_border=true&include_all_commits=true"
-      alt="GitHub statistics for Mohammad Aminul Islam"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aminbiography?tab=repositories">
-    Explore my public repositories
-  </a>
-</p>
+👉 https://github.com/aminbiography?tab=repositories
