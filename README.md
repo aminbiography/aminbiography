@@ -184,7 +184,7 @@ width="30" height="30" />
 
 
 
-### GitHub Overview
+### GitHub Overview:
 
 <table>
 <tr>
