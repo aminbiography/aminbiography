@@ -206,7 +206,7 @@ width="30" height="30" />
 
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" height="24"><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact">
 
@@ -214,7 +214,7 @@ width="30" height="30" />
 
 <td align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24" height="24"><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true">
 
