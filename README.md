@@ -14,19 +14,21 @@
     <img src="https://github.com/aminbiography/Google-Cloud-Cybersecurity-Professional-Certificate/blob/main/bar-graph-chart-image/GoogleBadges.png" alt="Google Cloud Cybersecurity Certificate" width="400" height="200">
   </a>
 
-  <a
-  aria-label="View Credly credentials in a new tab"
-  href="https://www.credly.com/users/aminbiography"
-  target="_blank"
-  rel="noopener noreferrer"
-  style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;background:#FF6B00;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;"
->
-  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-    <path d="M12 2 3 6v6c0 5 3.8 9.7 9 11 5.2-1.3 9-6 9-11V6l-9-4z"/>
-  </svg>
-  <span>View Credential</span>
-</a>
+    <br><br>
 
+  <a
+    aria-label="View Credly credentials in a new tab"
+    class="credential-link"
+    href="https://www.credly.com/users/aminbiography"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/View%20Credential-FF6B00?style=for-the-badge&logo=credly&logoColor=white"
+      alt="View Credential"
+    />
+  </a>
+  
 </div>
 
 
