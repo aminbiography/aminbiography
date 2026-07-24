@@ -45,7 +45,9 @@
 - 💬 Ask me about - **Search Architecture, SOC operations, Cloud Security, Website Integrity, LLMs, and AI Visibility**
 
 - 📫 How to reach me - <a href="https://aminbiography.com/" target="_blank">aminbiography.com</a>
-
+<a href="https://aminbiography.com/" onclick="window.open('https://aminbiography.com/'); return false;">
+  Visit Website
+</a>
 
 ## Professional Profiles:
 
