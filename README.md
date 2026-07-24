@@ -197,8 +197,46 @@ width="30" height="30" />
 </tr>
 </table>
 
-<img
-  src="https://raw.githubusercontent.com/aminbiography/github-algorithms/main/backup/github-overview-banner.png"
-  alt="GitHub Overview"
-  width="700"
-/>
+
+
+<h2>GitHub Overview</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    alt="GitHub logo"
+    width="80"
+    height="80"
+  />
+
+  <p>
+    A visual overview of my primary programming languages, GitHub activity,
+    and contribution history.
+  </p>
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact"
+        alt="Most-used programming languages for aminbiography"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true"
+        alt="GitHub statistics for aminbiography"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=aminbiography"
+        alt="GitHub contribution streak for aminbiography"
+      />
+    </td>
+  </tr>
+</table>
