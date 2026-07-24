@@ -49,16 +49,16 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
       </a>
     </td>
-    <td align="center">
-    <a href="https://x.com/aminbiography" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="X"
-        width="40"
-        height="40"
-      />
-    </a>
-  </td>
+   <td align="center">
+  <a href="https://x.com/aminbiography" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://about.x.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png"
+      alt="X"
+      width="40"
+      height="40"
+    />
+  </a>
+</td>
     <td align="center">
       <a href="https://www.youtube.com/channel/UCjx169gDU9CKEzd25iS4hSw/featured" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
