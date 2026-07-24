@@ -233,3 +233,47 @@ width="30" height="30" />
 </tr>
 
 </table>
+
+
+
+
+
+
+
+
+## GitHub Overview
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://img.shields.io/badge/Top%20Languages-181717?style=for-the-badge&logo=github&logoColor=white"
+        alt="Top Languages"
+      />
+      <br><br>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact"
+        alt="Top Programming Languages"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://img.shields.io/badge/GitHub%20Statistics-181717?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub Statistics"
+      />
+      <br><br>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true"
+        alt="GitHub Statistics"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=aminbiography"
+        alt="GitHub Contribution Streak"
+      />
+    </td>
+  </tr>
+</table>
