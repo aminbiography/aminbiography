@@ -210,16 +210,13 @@ width="30" height="30" />
         width="400"
         height="195"
       />
-
       <br />
-
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact"
         alt="Most-used programming languages for aminbiography"
         width="400"
       />
     </td>
-
     <td align="center">
       <img
         src="https://camo.githubusercontent.com/8b0bfa984544b288a8f6c78cdbc4d81aeafe60569afd01a2871d444b08a86a33/68747470733a2f2f692e70696e696d672e636f6d2f373336782f33352f35322f66342f33353532663433313832376138643132613666353033343238356432353332302e6a7067"
@@ -227,9 +224,7 @@ width="30" height="30" />
         width="400"
         height="195"
       />
-
       <br />
-
       <img
         src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true"
         alt="GitHub statistics for aminbiography"
@@ -246,9 +241,7 @@ width="30" height="30" />
         width="400"
         height="195"
       />
-
       <br />
-
       <img
         src="https://streak-stats.demolab.com?user=aminbiography"
         alt="GitHub contribution streak for aminbiography"
