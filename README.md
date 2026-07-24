@@ -1,10 +1,10 @@
 <div align="center">
 
 <h3>Hi, I'm Mohammad Aminul Islam (Amein)</h3>
-<h5>Search Architect</h5>
+<h3>Search Architect</h3>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hacker" width="400" height="200">
+  <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated developer coding illustration" width="400" height="200">
 </div>
 
 </div>
@@ -14,8 +14,6 @@
     <img src="https://github.com/aminbiography/Google-Cloud-Cybersecurity-Professional-Certificate/blob/main/bar-graph-chart-image/GoogleBadges.png" alt="Google Cloud Cybersecurity Certificate" width="400" height="200">
   </a>
 </div>
-
-
 
 
 
