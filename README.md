@@ -45,13 +45,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://twitter.com/aminbiography" target="_blank">
+      <a href="https://x.com/aminbiography" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://twitter.com/aminbiography" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="X" width="40" height="40" />
       </a>
     </td>
     <td align="center">
