@@ -221,8 +221,8 @@ width="30" height="30" />
       <img
         src="https://camo.githubusercontent.com/8b0bfa984544b288a8f6c78cdbc4d81aeafe60569afd01a2871d444b08a86a33/68747470733a2f2f692e70696e696d672e636f6d2f373336782f33352f35322f66342f33353532663433313832376138643132613666353033343238356432353332302e6a7067"
         alt="GitHub development activity visual"
-        width="400"
-        height="195"
+        width="100"
+        height="100"
       />
       <br />
       <img
@@ -238,8 +238,8 @@ width="30" height="30" />
       <img
         src="YOUR-THIRD-STATIC-IMAGE-URL"
         alt="GitHub contribution visual"
-        width="400"
-        height="195"
+        width="100"
+        height="100"
       />
       <br />
       <img
