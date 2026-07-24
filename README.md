@@ -43,16 +43,16 @@
       <a href="https://linkedin.com/in/aminbiography" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
       </a>
-    </td>
+    </td>   
      <td align="center">
       <a href="https://dev.to/aminbiography" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV Community" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DEV Community" width="30" height="30" />
       </a>
     </td>
    <td align="center">
       <a href="https://x.com/aminbiography" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/aminbiography/github-algorithms/refs/heads/main/backup/X-Logo-Official.png" alt="X" 
-width="40" height="40" />
+width="30" height="30" />
       </a>
     </td>
     <td align="center">
@@ -184,4 +184,3 @@ width="40" height="40" />
 </td>
 </tr>
 </table>
-
