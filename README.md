@@ -176,3 +176,16 @@
 </td>
 </tr>
 </table>
+
+
+
+## GitHub Overview
+
+<p align="center">
+  <a href="https://github.com/aminbiography">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact&hide_border=true"
+      alt="Most used languages in Mohammad Aminul Islam's public GitHub repositories"
+    />
+  </a>
+</p>
