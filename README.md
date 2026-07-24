@@ -28,9 +28,9 @@
 
 - 🔭 I’m currently working at - <a href="https://www.google.com/search?q=idolwave&sca_esv=6d7038bb3c82dcfc&biw=1534&bih=731&ei=U2ERZ7L4E_6x4-EPlLShwAU&ved=&uact=5&oq=idolwave&gs_lp=Egxnd3Mtd2l6LXNlcnAiCGlkb2x3YXZlMg0QLhiABBjHARgKGK8BMgYQABgHGB4yCBAAGAcYHhgPMgYQABgHGB4yCBAAGAcYCBgeMggQABgHGAgYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIIEAAYChgeGA8yHBAuGIAEGMcBGAoYrwEYlwUY3AQY3gQY4ATYAQFIpwlQ_AZY_AZwAXgAkAEAmAFpoAFpqgEDMC4xuAEDyAEA-AEBmAICoAKBAcICDhAuGIAEGLADGMcBGK8BwgIJEAAYsAMYBxgewgIHEAAYsAMYHsICCRAAGLADGAgYHpgDAIgGAZAGCroGBggBEAEYFJIHAzEuMaAHggk&sclient=gws-wiz-serp" target="_blank">idol wave</a>
 
-- 👯 Looking to collaborate on - **SOC Analyst, Search Architecture, Website Integrity, and Cyber Threat Intelligence**
+- 👯 Looking to collaborate on - **SOC operations and Search Architecture**
 
-- 💬 Ask me about - **Search Architecture, Cloud Security, Website Integrity, LLMs, AEO, and AI Visibility**
+- 💬 Ask me about - **Search Architecture, SOC operations, Cloud Security, Website Integrity, LLMs, AEO, and AI Visibility**
 
 - 📫 How to reach me - <a href="https://aminbiography.com/" target="_blank">aminbiography.com</a>
 
@@ -49,6 +49,11 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://x.com/aminbiography" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.simpleicons.org/x" alt="X (formerly Twitter)" width="40" height="40" />
+      </a>
+  </td>
     <td align="center">
       <a href="https://www.youtube.com/channel/UCjx169gDU9CKEzd25iS4hSw/featured" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
