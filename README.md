@@ -199,45 +199,6 @@ width="30" height="30" />
 
 
 
-## GitHub Overview
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact">
-
-</td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true">
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-<img src="https://streak-stats.demolab.com?user=aminbiography">
-
-</td>
-
-</tr>
-
-</table>
-
-
-
-
-
 
 
 
