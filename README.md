@@ -50,13 +50,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/aminbiography" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.simpleicons.org/x" alt="X (formerly Twitter)" width="40" height="40" />
-      </a>
-  </td>
-    <td align="center">
-  <a href="https://twitter.com/aminbiography" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/x" alt="X (formerly Twitter)" width="40" height="40" />
+  <a href="https://x.com/aminbiography" target="_blank" rel="noopener noreferrer">
+    <img src="assets/icons/x.svg" alt="X" width="40" height="40" />
   </a>
 </td>
     <td align="center">
