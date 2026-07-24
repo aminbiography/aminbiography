@@ -44,9 +44,19 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://x.com/aminbiography" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+   <td align="center">
+      <a href="https://x.com/aminbiography" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/aminbiography/github-algorithms/refs/heads/main/backup/X-Logo-Official.png"
+          alt="X"
+          width="40"
+          height="40"
+        />
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://www.reddit.com/user/aminbiography" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="40" height="40" />
       </a>
     </td>
     <td align="center">
