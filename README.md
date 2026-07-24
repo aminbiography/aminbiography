@@ -33,12 +33,12 @@ You can call me Amein</h3>
 
 - 👯 Looking to collaborate on - **Cyber Threat Intelligence**
 
-- 💬 Ask me about - **Cloud Computing, E-business & Cyber Threat Intelligence**
+- 💬 Ask me about - **Search Architecture, Cloud Security, Website Integrity, LLMs, AEO, and AI Visibility**
 
 - 📫 How to reach me - <a href="https://aminbiography.com/" target="_blank">aminbiography.com</a>
 
 
-## Connect with me:
+## Professional Profiles:
 
 <table>
   <tr>
