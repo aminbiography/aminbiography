@@ -31,41 +31,6 @@
 
 
 
-
-
-
-<div align="center">
-  <a
-    href="https://www.credly.com/users/aminbiography"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="View Credly credentials in a new tab"
-  >
-    <img
-      src="https://raw.githubusercontent.com/aminbiography/Google-Cloud-Cybersecurity-Professional-Certificate/main/bar-graph-chart-image/GoogleBadges.png"
-      alt="Google professional certificate badges"
-      width="400"
-      height="200"
-    />
-  </a>
-
-  <br><br>
-
-  <a
-    href="https://www.credly.com/users/aminbiography"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="View Credly credentials in a new tab"
-  >
-    <img
-      src="https://img.shields.io/badge/View%20Credential-FF6B00?style=for-the-badge&logo=credly&logoColor=white"
-      alt="View Credential"
-    />
-  </a>
-</div>
-
-
-
 - <p align="left">
   <img src="https://img.icons8.com/ios-filled/50/BC01FF/github.png" alt="GitHub logo" style="width:20px; height:20px; margin-right:5px;" />
   <img src="https://komarev.com/ghpvc/?username=aminbiography&label=Profile%20views&color=0e75b6&style=flat" alt="aminbiography" />
