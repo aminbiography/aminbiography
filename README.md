@@ -184,17 +184,14 @@
 <p align="center">
   <a href="https://github.com/aminbiography">
     <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true&hide_border=true&include_all_commits=true&count_private=false"
-      alt="GitHub account statistics for Mohammad Aminul Islam"
+      src="https://github-readme-stats.vercel.app/api?username=aminbiography&show_icons=true&hide_border=true&include_all_commits=true"
+      alt="GitHub statistics for Mohammad Aminul Islam"
     />
   </a>
+</p>
 
-  <a href="https://github.com/aminbiography">
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminbiography&layout=compact&hide_border=true"
-      alt="Most used languages in Mohammad Aminul Islam's public GitHub repositories"
-    />
+<p align="center">
+  <a href="https://github.com/aminbiography?tab=repositories">
+    Explore my public repositories
   </a>
 </p>
