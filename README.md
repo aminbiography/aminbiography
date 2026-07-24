@@ -13,6 +13,13 @@
   <a href="https://www.credly.com/users/aminbiography" target="_blank">
     <img src="https://github.com/aminbiography/Google-Cloud-Cybersecurity-Professional-Certificate/blob/main/bar-graph-chart-image/GoogleBadges.png" alt="Google Cloud Cybersecurity Certificate" width="400" height="200">
   </a>
+
+  <a href="https://www.credly.com/users/aminbiography" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/View-Credential-black?style=for-the-badge"
+    alt="View Credential"
+  />
+</a>
 </div>
 
 
