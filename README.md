@@ -47,7 +47,7 @@
 - 📫 How to reach me - <a href="https://aminbiography.com/" target="_blank">aminbiography.com</a>
 
 
-## Professional Profiles:
+### Professional Profiles:
 
 <table>
   <tr>
@@ -81,7 +81,7 @@ width="30" height="30" />
 </table>
 
 
-## Languages and Tools:
+### Languages and Tools:
 
 <table>
   <tr>
@@ -184,7 +184,7 @@ width="30" height="30" />
 
 
 
-## GitHub Overview
+### GitHub Overview
 
 <table>
 <tr>
