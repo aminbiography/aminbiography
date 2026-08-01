@@ -75,13 +75,12 @@ width="30" height="30" />
     </td>
     <td align="center">
     <a href="https://medium.com/@aminbiography" target="_blank">
-      <img
-        src="https://img.icons8.com/color/48/medium-monogram.png"
-        alt="Medium"
-        width="40"
-        height="40"
-      />
+      <img src="YOUR_MEDIUM_WHITE_CIRCLE_ICON.svg"
+           alt="Medium"
+           width="40"
+           height="40" />
     </a>
+  </td>
   </td>
   </tr>
 </table>
