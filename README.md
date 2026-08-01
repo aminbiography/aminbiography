@@ -74,11 +74,8 @@ width="30" height="30" />
     </td>
     </td>
     <td align="center">
-    <a href="https://medium.com/@aminbiography" target="_blank">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/medium.svg"
-       alt="Medium"
-       width="40"
-       height="40">
+     <a href="https://medium.com/@aminbiography" target="_blank">
+      <img src="./assets/icons/medium.svg" alt="Medium" width="40" height="40">
     </a>
   </td>
   </td>
