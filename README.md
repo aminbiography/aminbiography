@@ -69,7 +69,7 @@ width="30" height="30" />
     </td>
     <td align="center">
       <a href="https://www.youtube.com/channel/UCjx169gDU9CKEzd25iS4hSw/featured" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
       </a>
     </td>
     </td>
