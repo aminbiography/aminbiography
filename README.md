@@ -74,16 +74,15 @@ width="30" height="30" />
     </td>
     </td>
     <td align="center">
-  <a href="https://medium.com/@aminbiography" target="_blank">
-    <img
-      src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram--v1.png"
-      alt="Medium"
-      width="40"
-      height="40"
-      style="background:#fff; border-radius:50%; padding:6px;"
-    />
-  </a>
-</td>
+    <a href="https://medium.com/@aminbiography" target="_blank">
+      <img
+        src="https://img.icons8.com/color/48/medium-monogram.png"
+        alt="Medium"
+        width="40"
+        height="40"
+      />
+    </a>
+  </td>
   </tr>
 </table>
 
