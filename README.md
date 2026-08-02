@@ -76,7 +76,7 @@ width="30" height="30" />
     <td align="center">
     <a href="https://medium.com/@aminbiography" target="_blank">
       <img src="https://raw.githubusercontent.com/aminbiography/github-algorithms/main/backup/Medium-Logo-Official.jpeg" alt="Medium"
-  width="30" height="30"/>
+  width="40" height="25"/>
     </a>
   </td>
   </tr>
